@@ -1,0 +1,52 @@
+.navbar {
+  border-radius: 0px;
+  border-bottom: none;
+  margin-bottom: 0px;
+}
+
+.menu {
+  margin-bottom: 0px;
+  margin-right: 5px;
+}
+
+.menu li, .menu a {
+  display: inline-block;
+  height: 50px;
+  font-size: 1.1em;
+  text-decoration: none;
+  line-height: 50px;
+}
+
+.menu a:hover {
+  border-bottom: 4px solid #2B879E;
+}
+
+.home-page {
+
+
+}
+
+.login {
+  border: 2px solid #2B879E;
+  padding: 25px;
+}
+
+.no-account {
+  margin-top: 10px;
+}
+
+.list-user {
+  border: 2px solid #CECECE;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.row-user {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #2B879E;
+}
+
+.align-center {
+  text-align: center;
+}
